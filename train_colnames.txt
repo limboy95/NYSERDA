@@ -1,0 +1,25 @@
+average_annual_electric_use_mmbtu
+average_annual_gas_use_mmbtu
+year_built_range_1976-2000
+year_built_range_2000-2020
+year_built_range_<1945
+assessed_value_range_150 - 200
+assessed_value_range_200 - 300
+assessed_value_range_< 100
+assessed_value_range_>300
+number_of_stories_2
+number_of_stories_3
+square_footage_range_<= 1,500
+square_footage_range_>=2500
+number_of_bedrooms_3
+number_of_bedrooms_4 or more
+total_number_of_bathrooms_2 or 2.5
+total_number_of_bathrooms_3 or more
+number_of_kitchens_2 or more
+number_of_fireplaces_1 or more
+ethnic_group_other
+number_of_occupants_Less than 3
+number_of_occupants_More than 4
+median_income_range_50 - 100
+median_income_range_< 50
+median_income_range_> 150
